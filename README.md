@@ -9,9 +9,7 @@ Api From : https://www.themoviedb.org/
 ![alt text](https://github.com/irfanpriyadi21/Flutter-Trailer-Movie-App/blob/master/photo_2020-09-10_13-14-58.jpg)
 
 Aplikasi Ini Diambil Dari referensi Tutorial Youtube 
-
-Silahkan Bila Ingin Mengembangkan Lebih Lanjut..
-
+Silahkan Download Bila Ingin Mengembangkan Lebih Lanjut..
 Mohon Maaf Aplikasi Ini Belum Sempurna Masih Banyak Bug, 
 
 ## Getting Started
