@@ -2,7 +2,9 @@
 
 Trailer Movie App using Framework Flutter
 
+
 Api From : https://www.themoviedb.org/
+
 
 ![alt text](https://github.com/irfanpriyadi21/Flutter-Trailer-Movie-App/blob/master/photo_2020-09-10_13-14-48.jpg)
 ![alt text](https://github.com/irfanpriyadi21/Flutter-Trailer-Movie-App/blob/master/photo_2020-09-10_13-14-52.jpg)
